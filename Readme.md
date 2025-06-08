@@ -29,3 +29,4 @@
 ---
 
 ## 🏗️ Project Structure
+bit-digital-forest/ ├── index.html                  # Main hub with interactive tree cards ├── trees/ │   ├── banyan.html             # Example individual tree page │   ├── peepal.html │   ├── neem.html │   └── ... (total 36 pages) ├── assets/ │   ├── images/ │   ├── styles/ │   └── scripts/ └── README.md                   # This file
