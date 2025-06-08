@@ -1,6 +1,6 @@
 # 🌳 BIT Digital Forest
 
-**BIT Digital Forest** is an educational, interactive web-based project developed by students of **Bapurao Deshmukh College of Engineering, Wardha (BIT Wardha)**. This initiative brings together the beauty of nature and the power of the web to digitally represent 36 unique trees planted across the campus. Each tree is given its own dedicated webpage, accessible via QR codes, with detailed information and visual content.
+**BIT Digital Forest** is an educational, interactive web-based project developed by students of **Bajaja institute of Technology , Wardha (BIT Wardha)**. This initiative brings together the beauty of nature and the power of the web to digitally represent 36 unique trees planted across the campus. Each tree is given its own dedicated webpage, accessible via QR codes, with detailed information and visual content.
 
 ## 🚀 Project Highlights
 
